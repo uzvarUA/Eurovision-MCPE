@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "1.21 Eurovision Custom Record",
+        "name": "1.21 Eurovision Custom Record",
+        "uuid": "b5ab5629-d5c0-44af-bd8e-2eac22f1c470",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 70 ]
+    },
+    "modules": [
+        {
+            "description": "1.21 Eurovision Custom Record",
+            "type": "resources",
+            "uuid": "32b1ebc5-5175-49c9-9efb-99af99a70c16",
+            "version": [0, 0, 1]
+        }
+    ]
+}
